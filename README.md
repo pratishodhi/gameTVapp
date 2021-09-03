@@ -1,16 +1,11 @@
 # gametv
 
-A new Flutter project.
+A Flutter project showing user ratings from an API and Recommended section for user from different API, all with infinite scroll.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1630706824](https://user-images.githubusercontent.com/87486230/132069426-a349baea-27b4-4527-84dd-229559b1481d.png)
+![Screenshot_1630706941](https://user-images.githubusercontent.com/87486230/132069571-6ee371ad-e985-430d-8f27-3e04f62ddc90.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1630706818](https://user-images.githubusercontent.com/87486230/132069454-5168fdd8-4209-41c4-bd3d-346b9aa4ec3c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
